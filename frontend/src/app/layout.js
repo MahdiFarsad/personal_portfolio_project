@@ -23,20 +23,20 @@ const plexMono = IBM_Plex_Mono({
 export const metadata = {
   metadataBase: new URL("https://mahdifarsad.com"), 
   title: {
-    default: "Your Name - ML & Full-Stack Portfolio",
-    template: "%s | Your Name",
+    default: "MAHDI FARSAD PORTFOLIO",
+    template: "%s | MahdiFarsad",
   },
   description:
     "Machine learning, deep learning, data science, and full-stack projects.",
   openGraph: {
-    title: "Your Name - ML & Full-Stack Portfolio",
+    title: "MahdiFarsad",
     description:
       "Machine learning, deep learning, data science, and full-stack projects.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Your Name - ML & Full-Stack Portfolio",
+    title: "MahdiFarsad",
     description:
       "Machine learning, deep learning, data science, and full-stack projects.",
   },

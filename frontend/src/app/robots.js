@@ -1,5 +1,7 @@
+export const dynamic = "force-static";
+
 export default function robots() {
-  const baseUrl = "https://yourdomain.com"; // <-- change to your real domain
+  const baseUrl = "https://mahdifarsad.com"; 
 
   return {
     rules: {
