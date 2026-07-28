@@ -1,4 +1,5 @@
 import projects from "../../data/projects";
+export const metadata = { title: "Upcoming Projects" };
 
 export default function UpcomingPage() {
   const upcoming = projects.filter((p) => p.status === "upcoming");

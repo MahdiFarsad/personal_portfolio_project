@@ -15,7 +15,7 @@ export default function Home() {
       </p>
 
       <h1 className="font-display text-4xl md:text-6xl leading-tight mb-8 max-w-3xl">
-        Your Name
+        Mahdi Farsad Khalili
       </h1>
       <p className="font-body text-lg md:text-xl text-muted max-w-2xl leading-relaxed mb-10">
         I build machine learning systems and full-stack applications - from
@@ -35,11 +35,11 @@ export default function Home() {
       </div>
 
       <div className="flex flex-wrap gap-6 font-mono text-sm">
-        <a href="mailto:you@example.com" className="text-amber hover:underline">
+        <a href="mailto:mahdifarsadarbeit@gmail.com" className="text-amber hover:underline">
           Email
         </a>
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/MahdiFarsad"
           target="_blank"
           rel="noopener noreferrer"
           className="text-amber hover:underline"
@@ -47,7 +47,7 @@ export default function Home() {
           GitHub
         </a>
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/mahdi-farsad-k/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-amber hover:underline"

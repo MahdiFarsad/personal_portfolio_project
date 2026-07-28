@@ -1,4 +1,5 @@
 import { education, research } from "../../data/education";
+export const metadata = { title: "Education & Research" };
 
 export default function EducationPage() {
   return (
