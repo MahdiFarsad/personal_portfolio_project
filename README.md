@@ -53,7 +53,7 @@ portfolio/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/MahdiFarsad/portfolio.git
    ```
 2. Import `database/schema.sql` into a local MySQL database via phpMyAdmin.
 3. Copy `backend/includes/config.example.php` to `backend/includes/config.php` and fill in your local database credentials.
