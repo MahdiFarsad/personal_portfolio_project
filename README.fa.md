@@ -53,7 +53,7 @@ portfolio/
 
 ۱. کلون کردن ریپازیتوری:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/MahdiFarsad/personal_portfolio_project.git
    ```
 ۲. فایل `database/schema.sql` را از طریق phpMyAdmin در یک دیتابیس MySQL محلی ایمپورت کنید.
 ۳. فایل `backend/includes/config.example.php` را کپی کرده و به نام `backend/includes/config.php` ذخیره کنید، سپس اطلاعات دیتابیس محلی خود را در آن وارد کنید.
