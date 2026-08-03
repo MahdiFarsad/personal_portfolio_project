@@ -7,7 +7,7 @@ const projects = [
     fullDesc:
       "A machine learning pipeline that processes genetic marker datasets and classifies disease risk using an ensemble of gradient-boosted trees and a calibrated neural network. Includes feature importance analysis and cross-validation reporting.",
     techStack: ["Python", "Scikit-learn", "Pandas", "XGBoost"],
-    githubUrl: "https://github.com/yourusername/genetic-disease-classifier",
+    githubUrl: "https://github.com/MahdiFarsad",
     demoUrl: "",
     status: "published",
   },
@@ -19,7 +19,7 @@ const projects = [
     fullDesc:
       "A U-Net based deep learning model trained to segment anomalies in medical imaging data, with a focus on interpretability through Grad-CAM visualizations.",
     techStack: ["Python", "PyTorch", "OpenCV"],
-    githubUrl: "https://github.com/yourusername/medical-image-segmentation",
+    githubUrl: "https://github.com/MahdiFarsad",
     demoUrl: "",
     status: "published",
   },
@@ -31,7 +31,7 @@ const projects = [
     fullDesc:
       "A full-stack e-commerce platform supporting multiple vendors, cart/checkout flow, order management, and an admin dashboard. Built with a React frontend and a Node.js/Express backend.",
     techStack: ["React", "Node.js", "Express", "Tailwind CSS"],
-    githubUrl: "https://github.com/yourusername/ecommerce-platform",
+    githubUrl: "https://github.com/MahdiFarsad",
     demoUrl: "",
     status: "published",
   },
